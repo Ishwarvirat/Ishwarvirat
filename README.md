@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishwarvirat
+- 👋 Hi, I’m @tejaswini
 - 👀 I’m interested in ...cooking
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
